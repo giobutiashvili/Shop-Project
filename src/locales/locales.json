@@ -1,0 +1,68 @@
+{
+  "ge":{
+      "main":"მთავარი",
+      "aboutUs":"ჩვენს შესახებ",
+      "contact": "კონტაქტი",
+      "category":"კატეგორიები",
+      "ReadMore":"დეტალურად",
+      "selectCart":"არჩეული პროდუქტი",
+      "cart":"კალათა",
+      "addToCart":"დამატება",
+      "categories":{
+        "smartphones":"მობილურები",
+        "laptops":"ლეპტობები",
+        "fragrances":"სუნამოები",
+        "skincare":"კანის მოვლა",
+        "groceries":"სასურსათო პროდუქტები",
+        "home-decoration":"სახლის მორთულობა",
+        "furniture":"ავეჯი",
+        "tops":"ზედა",
+        "womens-dresses":"ქალის კაბები",
+        "womens-shoes":"ქალის ფეხსაცმელი",
+        "mens-shirts":"მამაკაცის მაისურები",
+        "mens-shoes":"მამაკაცის ფეხსაცმელი",
+        "mens-watches":"მამაკაცის საათები",
+        "womens-watches":"ქალის საათები",
+        "womens-bags":"ქალის ჩანთები",
+        "womens-jewellery":"ქალის სამკაულები",
+        "sunglasses":"მზის სათვალეები",
+        "automotive":"ავტომობილი",
+        "motorcycle":"მოტოციკლი",
+        "lighting":"განათება"
+      }
+
+  },
+  "en":{
+      "main":"Main",
+      "aboutUs":"About Us",
+      "contact": "Contact",
+      "category":"Categories",
+      "ReadMore":"Read More",
+      "selectCart":"Select Product",
+      "cart":"Cart",
+      "addToCart":"Add To Cart",
+      "categories":{
+        "smartphones":"smartphones",
+        "laptops":"laptops",
+        "fragrances":"fragrances",
+        "skincare":"skincare",
+        "groceries":"groceries",
+        "home-decoration":"home-decoration",
+        "furniture":"furniture",
+        "tops":"tops",
+        "womens-dresses":"womens-dresses",
+        "womens-shoes":"womens-shoes",
+        "mens-shirts":"mens-shirts",
+        "mens-shoes":"mens-shoes",
+        "mens-watches":"mens-watches",
+        "womens-watches":"womens-watches",
+        "womens-bags":"womens-bags",
+        "womens-jewellery":"womens-jewellery",
+        "sunglasses":"sunglasses",
+        "automotive":"automotive",
+        "motorcycle":"motorcycle",
+        "lighting":"lighting"
+      }
+  }
+
+}
